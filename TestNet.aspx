@@ -20,7 +20,7 @@ Sub Page_Load(Src As Object, E As EventArgs)
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <html>
 <head>
-<title>TestNet - User Area</title>
+<title>Valuation Partners - Admin Area</title>
 
 <style type="text/css">
 <!--
