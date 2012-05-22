@@ -9,8 +9,6 @@
 <script runat="server">
     
 Sub Page_Load(Src As Object, E As EventArgs)
-        Dim test As String
-        Dim test2 As String
         
     End Sub
 
