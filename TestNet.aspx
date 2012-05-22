@@ -20,7 +20,8 @@ Sub Page_Load(Src As Object, E As EventArgs)
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <html>
 <head>
-<title>Valuation Partners - Admin Area</title>
+<!-- Please DO NOT Change the User Area Title. This Area of the Site is Designated For Users. -->
+<title>Valuation Partners - User Area</title>
 
 <style type="text/css">
 <!--
